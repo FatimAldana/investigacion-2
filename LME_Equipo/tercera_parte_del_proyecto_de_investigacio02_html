@@ -1,0 +1,25 @@
+<div class="icon-section">
+            <div class="icon-box">
+                <img src="img/calendario.png" alt="Calendario Icono">
+                <h3>Calendars & Events</h3>
+                <p>Stay updated on upcoming events and important dates.</p>
+            </div>
+            <div class="icon-box">
+                <img src="img/consultas.jpg" alt="Consulting Icon">
+                <h3>Consulting</h3>
+                <p>Professional consulting services for leaders.</p>
+            </div>
+            <div class="icon-box">
+                <img src="img/carrer.jpg" alt="Nonprofit Icon">
+                <h3>Nonprofit & Careers</h3>
+                <p>Find opportunities in the nonprofit sector.</p>
+            </div>
+            <div class="icon-box">
+                <img src="img/erramientas.png" alt="Tools Icon">
+                <h3>Resources & Tools</h3>
+                <p>Access a variety of tools to help with management.</p>
+            </div>
+        </div>
+    </section>
+    <footer>
+        </div>
